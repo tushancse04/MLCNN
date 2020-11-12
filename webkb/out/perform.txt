@@ -1,0 +1,116 @@
+marginal result => cr : 0.98 
+Calculating performance for tuffymarginal result => cr : 1.0 
+Calculating performance for magicianmap result => cr : 1.0 
+embedding size: 200marginal result => cr : 1.0 
+Calculating performance for magicianmap result => cr : 1.0 
+embedding size: 200marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.228580266006805
+kmeans error : 0.0
+map result => cr : 1.0 
+embedding size: 200marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.042994123105476
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.888339004021034
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.599752551809466
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 15.960408289514383
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.95020105165481
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.042994123105476
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.115063408598825
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.073925146922363
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.13578719455614
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.76461490875348
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.702752861119702
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.95020105165481
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.290442313640582
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.012063099288586
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.39344262295082
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.888339004021034
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.042994123105476
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.42437364676771
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 17.35230436127436
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.795545932570366
+kmeans error : 0.0
+marginal result => cr : 1.0 
+Calculating performance for magicianbmf error : 0.0
+w2v error : 0.0
+random error : 16.609959789669038
+kmeans error : 0.0

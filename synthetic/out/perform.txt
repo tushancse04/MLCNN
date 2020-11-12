@@ -1,0 +1,27 @@
+marginal result => cr : 0.13 
+random error : 0.6217408744484564
+w2v error : 0.0
+kmeans error : 0.0
+marginal result => cr : 0.43 
+marginal result => cr : 0.45 
+marginal result => cr : 0.41 
+marginal result => cr : 0.88 
+marginal result => cr : 0.89 
+marginal result => cr : 0.88 
+marginal result => cr : 0.39 
+marginal result => cr : 0.27 
+marginal result => cr : 0.55 
+marginal result => cr : 0.55 
+orig error : 42.447708154798306
+marginal result => cr : 0.55 
+orig error : 42.447708154798306
+marginal result => cr : 0.78 
+orig error : 42.447708154798306
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 
+marginal result => cr : 0.78 

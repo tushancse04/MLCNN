@@ -1,0 +1,13 @@
+movie_user_rate1:200:500 movie_user_rate2:200:500 movie_user_rate3:200:500 movie_user_rate4:200:500 movie_user_rate5:200:500 movie_tag:200:1128 movie_imdb:200:200 imdb_tmb:200:200 movie_tmb:200:200 movie_gen:200:200 user_cat:5000:15 movie_cat:200:15
+.2:movie_tag(x,y)
+.2:movie_imdb(x,y)
+.2:imdb_tmb(x,y)
+.2:movie_tmb(x,y)
+.2:movie_gen(x,y)
+.2:user_cat(x,y)
+.2:movie_cat(x,y)
+.2:movie_user_rate1(x,y)
+.2:movie_user_rate2(x,y)
+.2:movie_user_rate3(x,y)
+.2:movie_user_rate4(x,y)
+.2:movie_user_rate5(x,y)

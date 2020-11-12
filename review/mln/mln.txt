@@ -1,0 +1,5 @@
+review_user:2000:300 review_rate:2000:3 review_spam:2000:2 review_year:2000:30 review_word:2000:12000 user_rate:300:3 user_year:300:30
+.2:review_user(x,y) v review_rate(x,y)
+.4:review_spam(x,y) v review_year(x,y)
+.8:review_spam(x,y) v review_word(x,y)
+.8:user_rate(x,y) v user_year(x,y) v user_month(x,y)

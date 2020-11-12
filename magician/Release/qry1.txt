@@ -1,0 +1,7 @@
+Course
+Faculty
+Department
+ResearchProject
+Person
+Staff
+Student
